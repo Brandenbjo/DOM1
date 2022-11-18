@@ -92,19 +92,6 @@ function addlistitem() {
 
     num++
 
-
-
-    // colorlist[i].addEventListener("click", (e) => {
-    //     let random = colors[Math.floor(Math.random() * colors.length)];
-
-    //     e.target.style.color = random;
-    // })
-    // colorlist[i].addEventListener("dblclick", (e)=>{
-    //     e.target.remove();
-    // })
-
-
-
 };
 
 
